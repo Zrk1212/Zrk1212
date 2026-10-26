@@ -43,6 +43,11 @@
         <a href="https://vantage-recruiting.com">Visit website →</a>
       </p>
       <p>
+        <strong>📅 <a href="https://hoosplanner.zrk.ventures">Hoos Planner</a></strong><br />
+        AI schedule advisor that builds conflict-free UVA semesters from real class data.<br />
+        <a href="https://hoosplanner.zrk.ventures">Visit website →</a>
+      </p>
+      <p>
         <strong>🏷️ <a href="https://fairplaygear.com">FairPlay</a></strong><br />
         Price comparison and deal alerts for sports gear.<br />
         <a href="https://fairplaygear.com">Visit website →</a>
@@ -51,7 +56,7 @@
     <td width="50%" valign="top">
       <h2>🌱 Selected Work</h2>
       <p>
-        <strong>🌐 <a href="https://zac-klein-portfolio.vercel.app">Personal Portfolio</a></strong><br />
+        <strong>🌐 <a href="https://zrk.ventures">Personal Portfolio</a></strong><br />
         Premium websites and web apps, designed and shipped fast.
       </p>
       <p>
